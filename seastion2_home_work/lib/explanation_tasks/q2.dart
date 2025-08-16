@@ -1,3 +1,6 @@
+/*
+2. Describe the difference between var, dynamic, and explicitly typed variables in Dart.
+*/
 void main() {
   // var: keyword تقوم بتحديد ال datatype بناء علي القيمه اللي هتدخل للمتغير ولكن يجب وضع قيمه للمتغير في نفس ال statment
 
