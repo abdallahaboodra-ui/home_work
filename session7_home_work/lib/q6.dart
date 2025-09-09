@@ -10,7 +10,7 @@ void main() {
   for (int i = 1; i < 3; i++) {
     if (number != randomNum) {
       print('wrong value enter your number');
-      int number = int.parse(stdin.readLineSync()!);
+      number = int.parse(stdin.readLineSync()!);
     } else if (number == randomNum) {
       print('you passed and number is $randomNum');
       break;
